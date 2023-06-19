@@ -1,2 +1,10 @@
 @import "reset.css";
 @import "general.css";
+
+/* MAIN */
+
+main .container .card {
+    background: rgb(97,27,185);
+    background: linear-gradient(43deg, rgba(97,27,185,1) 25%, rgba(69,44,249,1) 75%);
+    color: white; 
+}
